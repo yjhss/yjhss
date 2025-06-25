@@ -2,6 +2,11 @@
 
 ### ```Backend Developer``` -->
 
+### <a href="mailto:https://www.notion.so/BE-1f014ac077a180d49b91eeef06b3a374">
+<img src="https://img.shields.io/badge/Portfolio-v1-black?style=for-the-badge">
+</a>  
+
+
 ```java
 @SpringBootApplication
 public class DeveloperProfile {
