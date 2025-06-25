@@ -1,6 +1,25 @@
-<!-- ## Hi there 👋 -->
+<!-- ## Hi there 👋 
 
-### ```Backend Developer```
+### ```Backend Developer``` -->
+
+```java
+@SpringBootApplication
+public class DeveloperProfile {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DeveloperProfile.class, args);
+        System.out.println("Hello! I'm a backend developer who loves Java & Spring 🚀");
+    }
+
+    String query = "SELECT * FROM skills WHERE stack = 'Backend' AND language = 'Java' AND framework = 'Spring' AND db = 'MySQL';";
+}
+
+```
+
+
+
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,mongodb,redis,aws,gcp,docker,git&theme=light)](https://skillicons.dev)
 
