@@ -14,7 +14,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,nodejs,express,mysql,postgres,mongodb,redis,aws,gcp,docker,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,nodejs,express,mysql,postgres,mongodb,redis,firebase,aws,gcp,docker,git&theme=light)](https://skillicons.dev)
 
 
 
