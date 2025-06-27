@@ -31,7 +31,7 @@ public class DeveloperProfile {
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,mongodb,redis,aws,gcp,docker,git&theme=light)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjhss)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjhss)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
 
