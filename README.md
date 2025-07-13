@@ -2,10 +2,11 @@
 
 ### ```Backend Developer``` -->
 
+<!--
 <a href="https://www.notion.so/BE-1f014ac077a180d49b91eeef06b3a374">
 <img src="https://img.shields.io/badge/Portfolio-v1-black?style=for-the-badge">
 </a>  
-
+-->
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/yjhss?pet-id=1" width="1000" height="120"/>
