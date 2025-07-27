@@ -8,17 +8,18 @@
 </a>  
 -->
 
+<!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/yjhss?pet-id=1" width="1000" height="120"/>
 </a>
-
+-->
 
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,nodejs,express,mysql,postgres,mongodb,redis,firebase,aws,gcp,docker,git&theme=light)](https://skillicons.dev)
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,redis,aws,gcp,docker,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,gcp,docker,git&theme=light)](https://skillicons.dev)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjhss)](https://github.com/anuraghazra/github-readme-stats)  -->
 
@@ -39,11 +40,10 @@ public class DeveloperProfile {
 -->
 
 
-<!--
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/yjhss"/>
 </a>
--->
 
 
 
