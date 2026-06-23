@@ -1,7 +1,4 @@
 # 안녕하세요, 홍유진입니다.
-
-## 🚀 About Me
-
 * **Aspiring to be**
   > 백엔드 개발자 및 인프라 엔지니어
 * **Core Experience**
@@ -9,8 +6,7 @@
 * **Interested in**
   > 정보시스템 및 전산 인프라 설계·구축·운영
 
-
-## 🎯 Interest
+## 🎯 Interests
 
 * **IT 인프라 (Server, Cloud, DB, Network, DevOps & Security)**
   * Linux 시스템, 컴퓨팅 자원 및 가상화·클라우드 아키텍처
@@ -23,6 +19,30 @@
 
 ## 🎓 Education
 - **성신여자대학교 컴퓨터공학과** (2021.03 ~ 2026.02)
+
+
+## 📜 Certifications
+
+- **정보처리기사** | 한국산업인력공단 (2025.12.24)
+- **SQL 개발자 (SQLD)** | 한국데이터산업진흥원 (2026.06.19)
+
+- **TOEIC** (935) | YBM (2026.03.29)
+- **TOEIC Speaking** (AL / 160) | YBM (2026.02.01)
+
+
+## 📊 Key Accomplishments
+
+### [가상화 기반 Blue-Green 무중단 배포 체계 구축]
+- GitHub Actions, Docker, Nginx 등을 사용하여 Blue-Green 무중단 배포 CI/CD 파이프라인을 구축하고, 동적 포트 스위칭을 적용하여 다운타임을 없애고(Zero-Downtime) 서버 배포 인프라 운영 연속성 확보
+- 프리티어 환경의 가상 서버(EC2) 메모리 고갈 장애를 시스템 자원 분석 및 Linux Swap 가상 메모리 설정을 통해 안정적으로 해결
+
+### [대용량 주식 종목 데이터 수집 소요 시간 80% 이상 단축]
+- 약 3,000여 개 종목의 외부 데이터 수집 시 발생하는 단일 스레드 네트워크 지연 문제를 데이터 파티셔닝 및 Parallel Stream 병렬 처리로 최적화 (소요 시간 30분대 → 5분 이내로 80% 단축)
+- 멀티스레드 환경 내 동시성 이슈를 방지하기 위해 AtomicInteger를 도입하여 데이터 정합성 및 정밀한 실시간 모니터링 로그 환경 확보
+
+### [SSE 기반 실시간 데이터 동기화 및 음성(STT/TTS) 기반 인터페이스 구축]
+- SSE(Server-Sent Events) 단방향 통신을 도입하여 새로고침 없는 실시간 편지 수신 및 화면 동기화 환경 구축
+- Google Cloud Speech-to-Text 및 Text-to-Speech API를 연동하여 시니어 계층을 위한 직관적인 음성 UI/UX 환경을 구현하고 서비스 접근성 개선
 
 
 ## 🏆 Awards
@@ -50,22 +70,6 @@
 - **[Faniverse](https://github.com/Faniverse2024/FaniverseBE)**: 팬덤 특화 중고거래 및 커뮤니티 서비스
 
 
-## 📊 Key Accomplishments
-
-### [가상화 기반 Blue-Green 무중단 배포 체계 구축]
-- GitHub Actions, Docker, Nginx 등을 사용하여 Blue-Green 무중단 배포 CI/CD 파이프라인을 구축하고, 동적 포트 스위칭을 적용하여 다운타임을 없애고(Zero-Downtime) 서버 배포 인프라 운영 연속성 확보
-- 프리티어 환경의 가상 서버(EC2) 메모리 고갈 장애를 시스템 자원 분석 및 Linux Swap 가상 메모리 설정을 통해 안정적으로 해결
-
-### [대용량 주식 종목 데이터 수집 소요 시간 80% 이상 단축]
-- 약 3,000여 개 종목의 외부 데이터 수집 시 발생하는 단일 스레드 네트워크 지연 문제를 데이터 파티셔닝 및 Parallel Stream 병렬 처리로 최적화 (소요 시간 30분대 → 5분 이내로 80% 단축)
-- 멀티스레드 환경 내 동시성 이슈를 방지하기 위해 AtomicInteger를 도입하여 데이터 정합성 및 정밀한 실시간 모니터링 로그 환경 확보
-
-### [SSE 기반 실시간 데이터 동기화 및 음성(STT/TTS) 기반 인터페이스 구축]
-- SSE(Server-Sent Events) 단방향 통신을 도입하여 새로고침 없는 실시간 편지 수신 및 화면 동기화 환경 구축
-- Google Cloud Speech-to-Text 및 Text-to-Speech API를 연동하여 시니어 계층을 위한 직관적인 음성 UI/UX 환경을 구현하고 서비스 접근성 개선
-
----
-
 ## 🛠️ Tech Stacks
 | 분류 | Tech & Tools |
 | :--- | :--- |
@@ -73,18 +77,6 @@
 | **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=fluentd&logoColor=white"> |
 | **Cloud & OS** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> |
 | **DevOps & CI/CD** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> |
-
----
-
-## 📜 Certifications & Language Proficiency
-
-### Certifications
-- **정보처리기사** | 한국산업인력공단 (2025.12.24)
-- **SQL 개발자 (SQLD)** | 한국데이터산업진흥원 (2026.06.19)
-
-### Language Proficiency
-- **TOEIC** (935점) | YBM (2026.03.29)
-- **TOEIC Speaking** (AL / 160점) | YBM (2026.02.01)
 
 ---
 
