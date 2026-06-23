@@ -29,7 +29,7 @@
 
 ## 📊 Key Accomplishments
 
-### [Docker & Nginx 기반 Blue-Green 무중단 배포 체계 구축]
+### [가상화 기반 Blue-Green 무중단 배포 체계 구축]
 - GitHub Actions, Docker, Nginx 등을 사용하여 Blue-Green 무중단 배포 CI/CD 파이프라인을 구축하고, 동적 포트 스위칭을 적용하여 다운타임을 없애고(Zero-Downtime) 서버 배포 인프라 운영 연속성 확보
 - 프리티어 환경의 가상 서버(EC2) 메모리 고갈 장애를 시스템 자원 분석 및 Linux Swap 가상 메모리 설정을 통해 안정적으로 해결
 
