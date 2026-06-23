@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 * **Aspiring to be**
-  > 백엔드 개발 및 인프라 엔지니어
+  > 백엔드 개발자 및 인프라 엔지니어
 * **Core Experience**
   > 복잡한 대용량 데이터 처리 최적화 및 가용성 높은 무중단 배포 체계 구축
 * **Interested in**
