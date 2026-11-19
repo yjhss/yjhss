@@ -1,20 +1,16 @@
-
 ## 👋 안녕하세요, 홍유진입니다.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=1000&color=808080&vCenter=true&width=480&lines=Infrastructure+Engineering;Cloud+Engineering;DevOps+Engineering;Platform+Engineering;Site+Reliability+Engineering)
 
-![Infrastructure](https://img.shields.io/badge/INFRASTRUCTURE-222222?style=flat-square)
-![Cloud](https://img.shields.io/badge/CLOUD-222222?style=flat-square)
-![DevOps](https://img.shields.io/badge/DEVOPS-222222?style=flat-square)
-
-
-시스템의 안정성과 운영 효율을 높이는 일에 관심이 있습니다.
-
-인프라를 구축하고 운영하는 것에서 나아가, 자동화와 표준화를 통해 효율적인 운영 환경을 만들고 장애와 변화에 유연하게 대응할 수 있는 시스템을 고민합니다.
-
-안정적이고 확장 가능하며 신뢰할 수 있는 인프라를 만들어가는 엔지니어로 성장하고 있습니다.
-
 🔗 [Tech Blog — /ᐠ - ˕ -マ](https://yjhss.github.io/)
+
+서버, 네트워크, 클라우드를 아우르는 **IT 인프라의 설계·구축·운영과 지속적인 개선**에 관심이 있습니다.
+
+클라우드 네이티브 플랫폼, 가상화, 인프라 및 배포 자동화, 모니터링과 장애 대응을 중심으로 학습하고 실습하며,
+
+시스템의 가용성과 확장성, 성능 및 운영 효율을 높이는 방법을 고민합니다.
+
+인프라의 전체 라이프사이클을 이해하고, 안정적이고 신뢰할 수 있는 서비스 운영 환경을 만들어가는 엔지니어로 성장하고 있습니다.
 
 
 ## 🎯 Interests
@@ -22,7 +18,9 @@
 ### Engineering
 
 - Infrastructure Engineering
+- Cloud Engineering
 - Platform Engineering
+- DevOps Engineering
 - Site Reliability Engineering (SRE)
 
 ### Technical Interests
