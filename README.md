@@ -12,18 +12,67 @@
 
 인프라의 전체 라이프사이클을 이해하고, 안정적이고 신뢰할 수 있는 서비스 운영 환경을 만들어가는 엔지니어로 성장하고 있습니다.
 
+<!--
+- 클라우드 서비스 및 플랫폼 구축·운영, 인프라 자동화, 가상화, 분산 인프라 관리
+- 퍼블릭 클라우드 운영, 하이브리드·멀티 클라우드 관리, 인프라 모니터링 및 운영 개선
+- 컨테이너 기반 인프라 구축, 배포 자동화, 보안, 서비스 운영 및 장애 대응	
+- 클라우드 인프라 구축·운영, 시스템 최적화, 오픈소스 기술 검증, 고가용성 환경 구축, 가상화, 클러스터링, Storage, 운영 자동화
+- 클라우드·온프레미스·Kubernetes 기반 인프라 구축 및 운영
+-->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>☁️ Cloud & Infrastructure</strong>
+      <br><br>
+      클라우드 서비스 및 플랫폼 설계·구축·운영,
+      온프레미스 및 Public·Private·Hybrid·Multi Cloud 환경 관리
+    </td>
+    <td width="50%" valign="top">
+      <strong>🖥️ Systems & Virtualization</strong>
+      <br><br>
+      가상화, 클러스터링, 스토리지,
+      분산 인프라 관리 및 시스템 최적화
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>📦 Cloud Native & Platform</strong>
+      <br><br>
+      컨테이너 기반 인프라 및 Kubernetes 플랫폼 구축·운영,
+      오픈소스 기술 검증
+    </td>
+    <td width="50%" valign="top">
+      <strong>⚙️ DevOps & Automation</strong>
+      <br><br>
+      인프라 프로비저닝, 배포 및 운영 자동화,
+      운영 환경 개선 및 표준화
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>📊 Observability & Reliability</strong>
+      <br><br>
+      인프라 모니터링, 서비스 운영 및 장애 대응,
+      고가용성 환경 구축
+    </td>
+    <td width="50%" valign="top">
+      <strong>🛡️ Infrastructure Security</strong>
+      <br><br>
+      시스템·클라우드·컨테이너 인프라 보안 및
+      안정적인 운영 환경 관리
+    </td>
+  </tr>
+</table>
+
 
 ## 🎯 Interests
-
-### Engineering
-
+<!--
 - Infrastructure Engineering
 - Cloud Engineering
 - Platform Engineering
 - DevOps Engineering
 - Site Reliability Engineering (SRE)
-
-### Technical Interests
 
 - **Linux & OS** — 시스템 및 서버 관리, 가상화, 자원 관리
 - **Network** — 네트워크 인프라, 통신, 트래픽 관리
@@ -31,6 +80,46 @@
 - **Infrastructure as Code** — 인프라 구성 및 프로비저닝 자동화
 - **DevOps** — CI/CD, GitOps, 배포 및 운영 자동화
 - **Observability** — 모니터링, 로깅, 장애 분석 및 대응
+-->
+
+
+![Infrastructure Engineering](https://img.shields.io/badge/Infrastructure_Engineering-292929?style=flat-square)
+![Cloud Engineering](https://img.shields.io/badge/Cloud_Engineering-292929?style=flat-square)
+![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-292929?style=flat-square)
+![DevOps Engineering](https://img.shields.io/badge/DevOps_Engineering-292929?style=flat-square)
+![SRE](https://img.shields.io/badge/Site_Reliability_Engineering-292929?style=flat-square)
+
+<p>
+  <img src="https://cdn.simpleicons.org/linux/808080" width="20" />
+  &nbsp;<strong>Linux & OS</strong> — 시스템 및 서버 관리, 가상화, 자원 관리
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/cisco/808080" width="20" />
+  &nbsp;<strong>Network</strong> — 네트워크 인프라, 통신, 트래픽 관리
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/kubernetes/808080" width="20" />
+  &nbsp;<strong>Cloud Native</strong> — 클라우드, 컨테이너, 오케스트레이션
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/terraform/808080" width="20" />
+  &nbsp;<strong>Infrastructure as Code</strong> — 인프라 구성 및 프로비저닝 자동화
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/argo/808080" width="20" />
+  &nbsp;<strong>DevOps</strong> — CI/CD, GitOps, 배포 및 운영 자동화
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/grafana/808080" width="20" />
+  &nbsp;<strong>Observability</strong> — 모니터링, 로깅, 장애 분석 및 대응
+</p>
+
+
 
 ## 🎓 Education
 
@@ -93,12 +182,10 @@
 
 | Area | Technologies & Concepts |
 |---|---|
-| Cloud Native | Kubernetes, Helm |
+| Cloud Native | Kubernetes, Helm, OpenStack |
 | IaC & Automation | Terraform, Ansible |
 | GitOps | Argo CD |
 | Observability | Prometheus, Grafana, Loki |
-| Networking | TCP/IP, Routing, Switching |
-| Reliability Engineering | High Availability, Load Testing, Disaster Recovery |
 
 ## 🏆 Awards
 
