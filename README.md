@@ -166,26 +166,19 @@
 - 데이터 파티셔닝 및 병렬 처리를 통한 처리 성능 개선
 - 데이터 수집 소요 시간 80% 이상 단축 (30분대 → 5분 이내)
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-| Area | Technologies |
+| **Area** | **Technologies** |
 |---|---|
-| Systems | Linux, Nginx |
-| Cloud & Infrastructure | AWS, Google Cloud |
-| Container | Docker |
-| CI/CD | GitHub Actions, Jenkins |
+| Systems & Network | Linux, Nginx |
+| Cloud & Infrastructure | AWS, Google Cloud, OpenStack |
+| Container & Orchestration | Docker, Kubernetes, Helm |
+| IaC & Automation | Terraform, Ansible |
+| CI/CD & GitOps | GitHub Actions, Jenkins, Argo CD |
+| Observability | Prometheus, Grafana, Loki |
 | Database | MySQL, PostgreSQL, Redis |
 | Programming & Scripting | Java, Python, Shell |
 | Version Control | Git, GitHub |
-
-## 🌱 Currently Exploring
-
-| Area | Technologies & Concepts |
-|---|---|
-| Cloud Native | Kubernetes, Helm, OpenStack |
-| IaC & Automation | Terraform, Ansible |
-| GitOps | Argo CD |
-| Observability | Prometheus, Grafana, Loki |
 
 ## 🏆 Awards
 
