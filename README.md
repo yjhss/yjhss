@@ -3,8 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=1000&color=808080&vCenter=true&width=480&lines=Infrastructure+Engineering;Cloud+Engineering;DevOps+Engineering;Platform+Engineering;Site+Reliability+Engineering)
 
-🔗 [Tech Blog — /ᐠ - ˕ -マ](https://yjhss.github.io/)
-
 서버, 네트워크, 클라우드를 아우르는 **IT 인프라의 설계·구축·운영과 지속적인 개선**에 관심이 있습니다.
 
 클라우드 네이티브 플랫폼, 가상화, 인프라 및 배포 자동화, 모니터링과 장애 대응을 중심으로 학습하며,
